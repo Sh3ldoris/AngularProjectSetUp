@@ -5,8 +5,8 @@ import { PageContainerComponent } from './shared/layout/layout';
 export const routes: Routes = [
   { path: '', redirectTo: MainRoute.INTRODUCTION, pathMatch: 'full' },
   // {
-  //   path: MainRoute.UNKNOWN_EMPLOYEE,
-  //   component: UnknownEmployeePageComponent,
+  //   path: MainRoute.UNKNOWN,
+  //   component: UnknownPageComponent,
   // },
   {
     path: '',
